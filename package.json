@@ -1,0 +1,26 @@
+{
+  "name": "applihackathon2019",
+  "version": "1.0.0",
+  "description": "Code submission in applitool hackathon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soumensaha001/applihackathon2019.git"
+  },
+  "author": "Soumen Saha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soumensaha001/applihackathon2019/issues"
+  },
+  "homepage": "https://github.com/soumensaha001/applihackathon2019#readme",
+  "devDependencies": {
+    "@applitools/eyes-cypress": "^3.8.20",
+    "cypress": "^3.6.1"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
