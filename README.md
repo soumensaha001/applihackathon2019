@@ -1,5 +1,9 @@
 # applihackathon2019
 This project is for submitting code in applitool hackathon 2019
+
+Pre requisite:
+Make sure that system is having node installed and the machine's environment variable is set for
+applitool api key (APPLITOOLS_API_KEY). 
 Steps to Run this suite:
 1. git pull this repo.
 2. perform npm install on command line. This will install cypress and applitool sdk both.
